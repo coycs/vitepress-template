@@ -1,9 +1,9 @@
 export const sidebar = [
   {
-    text: "起步",
+    text: "例子",
     items: [
-      { text: "简介", link: "/zh/" },
-      { text: "Markdown例子", link: "/zh/markdown-examples" },
+      { text: "markdown例子", link: "/zh/markdown-examples" },
+      { text: "api例子", link: "/zh/api-examples" },
     ],
   },
 ];

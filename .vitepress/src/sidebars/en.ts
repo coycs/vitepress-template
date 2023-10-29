@@ -1,9 +1,9 @@
 export const sidebar = [
   {
-    text: "Getting Started",
+    text: "Examples",
     items: [
-      { text: "Introduction", link: "/" },
-      { text: "Markdown Examples", link: "/markdown-examples" },
+      { text: "markdown examples", link: "/markdown-examples" },
+      { text: "api examples", link: "/api-examples" },
     ],
   },
 ];
