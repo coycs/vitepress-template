@@ -85,17 +85,7 @@ This is a details block.
 Check out the documentation for the [full list of markdown extensions](https://vitepress.dev/guide/markdown).
 
 ![An image](/avatar.png)
-![An image](/1697637047.png)
 
-<span v-for="i in 3">{{ i }}</span>
-
-{{ 1+1 }}
-
-::: v-pre
-{{ This will be displayed as-is }}
-:::
-
-<video class="video-player" src="https://fastly.jsdelivr.net/gh/egoist-bot/images@main/uPic/xwc4yH.mp4" controls=""></video>
 <video class="video-player" src="/video.mp4" controls=""></video>
 
 <audio controls src="/audio.mp3"></audio>
